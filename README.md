@@ -1,4 +1,4 @@
-# NYCU_Python_ML_Workshop
+# NYCU-Python-ML-Workshop
 
 This repository record jupyter notebook file for this workshop
 
