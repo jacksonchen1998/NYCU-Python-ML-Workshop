@@ -2,10 +2,10 @@
 
 This repository record jupyter notebook file for this workshop
 
-* 11-15
-* 11-22
-* 11-29
-* 12-13
+* 11-15 - Introductory Programming Language - Python Fundamentals
+* 11-22 - Data cleaning, crawling, data visualization, image processing basics
+* 11-29 - Advanced applications - stock prediction, object detection
+* 12-13 - Group reports, group evaluations, instructor suggestions
 
 ## Final Project
 
